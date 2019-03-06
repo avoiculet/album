@@ -1,6 +1,6 @@
-package com.nbrown.babyalbum.controllers;
+package com.nbrown.babyalbum.controller;
 
-import com.nbrown.babyalbum.services.AlbumService;
+import com.nbrown.babyalbum.service.AlbumService;
 import org.junit.Before;
 
 import static org.mockito.Mockito.mock;

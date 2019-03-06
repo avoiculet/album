@@ -1,11 +1,11 @@
-package com.nbrown.babyalbum.controllers;
+package com.nbrown.babyalbum.controller;
 
 import com.nbrown.babyalbum.protocol.KidUserDTO;
-import com.nbrown.babyalbum.services.UserService;
+import com.nbrown.babyalbum.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import static com.nbrown.babyalbum.utils.Constants.CLIENT_ID;
+import static com.nbrown.babyalbum.util.Constants.CLIENT_ID;
 
 /**
  * Created by avoiculet on 05/03/2019.

@@ -1,8 +1,8 @@
-package com.nbrown.babyalbum.controllers;
+package com.nbrown.babyalbum.controller;
 
 import com.nbrown.babyalbum.model.KidUser;
 import com.nbrown.babyalbum.protocol.KidUserDTO;
-import com.nbrown.babyalbum.services.UserService;
+import com.nbrown.babyalbum.service.UserService;
 import org.junit.Before;
 import org.junit.Test;
 

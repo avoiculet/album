@@ -8,7 +8,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-import static com.nbrown.babyalbum.utils.Constants.UPLOAD_FOLDER;
+import static com.nbrown.babyalbum.util.Constants.UPLOAD_FOLDER;
 
 /**
  * Created by avoiculet on 06/03/2019.

@@ -1,4 +1,4 @@
-package com.nbrown.babyalbum.services;
+package com.nbrown.babyalbum.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.nbrown.babyalbum.protocol.GeoLocationError;
@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 import java.io.IOException;
 
-import static com.nbrown.babyalbum.utils.Constants.GEOLOCATION_URL;
+import static com.nbrown.babyalbum.util.Constants.GEOLOCATION_URL;
 
 /**
  * Created by avoiculet on 06/03/2019.

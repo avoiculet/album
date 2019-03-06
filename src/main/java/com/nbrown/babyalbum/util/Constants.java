@@ -1,4 +1,4 @@
-package com.nbrown.babyalbum.utils;
+package com.nbrown.babyalbum.util;
 
 /**
  * Created by avoiculet on 06/03/2019.

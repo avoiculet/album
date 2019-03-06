@@ -1,7 +1,7 @@
-package com.nbrown.babyalbum.controllers;
+package com.nbrown.babyalbum.controller;
 
 import com.nbrown.babyalbum.protocol.PhotoDTO;
-import com.nbrown.babyalbum.services.AlbumService;
+import com.nbrown.babyalbum.service.AlbumService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.format.annotation.DateTimeFormat;
@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import static com.nbrown.babyalbum.utils.Constants.CLIENT_ID;
+import static com.nbrown.babyalbum.util.Constants.CLIENT_ID;
 
 /**
  * Created by avoiculet on 05/03/2019.

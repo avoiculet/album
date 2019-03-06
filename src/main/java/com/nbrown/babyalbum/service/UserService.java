@@ -1,4 +1,4 @@
-package com.nbrown.babyalbum.services;
+package com.nbrown.babyalbum.service;
 
 import com.nbrown.babyalbum.model.KidUser;
 import com.nbrown.babyalbum.protocol.KidUserDTO;
